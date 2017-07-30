@@ -1,0 +1,81 @@
+.img-circle {
+	width: 60px;
+	height: 60px;
+	display: inline-block;
+    background: none;
+}
+
+.dropdown-messages {
+	background: rgba(255, 255, 255, 1);
+}
+
+
+.header {
+	font-size: 30px;
+}
+
+.text-message {
+	font-size: 16px;
+}
+
+.fa-sun-o:before {
+	width: 100px;
+	height: 100px;
+}
+
+.house-scematic {
+	width: 70%;
+	height: 70%;
+	margin-left: 180px;
+	margin-top: 30px;
+	display:inline-block;
+}
+
+.fa-check {
+
+	width: 30px;
+	height: 30px;
+	margin-top: 50%;
+	color: white;
+}
+
+.tick {
+	border-radius: 50px;
+}
+
+#tick1 {
+
+	position: absolute;
+	margin-left: -200px;
+	margin-top: 260px;
+
+}
+
+#tick2 {
+	position: absolute;
+	margin-left: -340px;
+	margin-top: 420px;
+}
+
+#tick3 {
+	position: absolute;
+	margin-left: -520px;
+	margin-top: 450px;
+}
+
+#tick4 {
+	position: absolute;
+	margin-left: -520px;
+	margin-top: 200px;
+}
+
+#tick5 {
+	position: absolute;
+	margin-left: -200px;
+	margin-top: 100px;
+}
+
+#tick6 {
+	position: absolute;
+	margin-left: -150px;
+	margin-top: 410px;
